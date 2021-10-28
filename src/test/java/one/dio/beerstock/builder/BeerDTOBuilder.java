@@ -7,6 +7,7 @@ import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import lombok.Builder;
 import one.digitalinnovation.beerstock.dto.BeerDTO;
 import one.digitalinnovation.beerstock.enums.BeerType;
+import one.dio.beerstock.dto.BeerDTO;
 
 @Builder
 public class BeerDTOBuilder {
